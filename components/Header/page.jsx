@@ -11,7 +11,7 @@ export default function Header() {
             href="/"
             aria-label="Brand"
           >
-            Nrrizki.me
+            nrrizki.me
           </a>
           <div className="md:hidden">
             <button
