@@ -33,12 +33,9 @@ export default function Hero() {
           </a>
         </div>
 
-        <div className="mt-5 max-w-2xl text-center mx-auto">
-          <h1 className="block font-bold bg-clip-text bg-gradient-to-tl from-blue-600 to-violet-600 text-transparent text-4xl md:text-5xl lg:text-6xl light:text-gray-200">
+        <div className="mt-5 max-w-2xl text-center mx-auto relative h-10 ">
+          <h1 className="block font-bold italic bg-clip-text bg-gradient-to-tl from-blue-600 to-violet-600 text-transparent text-4xl md:text-5xl lg:text-6xl light:text-gray-200">
             <TextAnimation />
-            {/* <span className="bg-clip-text bg-gradient-to-tl from-blue-600 to-violet-600 text-transparent">
-              &nbsp;Rizki
-            </span> */}
           </h1>
         </div>
 
